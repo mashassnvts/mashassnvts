@@ -13,9 +13,6 @@
   <a href="https://t.me/mashassnvts">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-   <a href="[https://t.me/mashassnvts](https://www.instagram.com/_mashaaaaa______/?hl=ru)">
-    <img src="https://img.shields.io/badge/Instagram?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
 </p>
 
 ---
